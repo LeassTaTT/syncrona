@@ -9,7 +9,7 @@
   "author": "Ivan Baev",
   "license": "MIT",
   "dependencies": {
-    "@babel/core": "^7.23.2",
+    "@babel/core": "^8.0.0",
     "@babel/types": "^7.23.0"
   },
   "devDependencies": {

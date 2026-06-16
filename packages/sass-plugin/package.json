@@ -15,7 +15,7 @@
   "author": "Ivan Baev",
   "license": "MIT",
   "dependencies": {
-    "sass": "^1.93.2"
+    "sass": "^1.101.0"
   },
   "devDependencies": {
     "@syncrona/types": "^0.4.2-alpha.8",

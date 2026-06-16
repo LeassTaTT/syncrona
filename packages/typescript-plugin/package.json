@@ -9,7 +9,7 @@
   "author": "Ivan Baev",
   "license": "MIT",
   "dependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^6.0.3"
   },
   "devDependencies": {
     "@syncrona/types": "^0.4.2-alpha.8"

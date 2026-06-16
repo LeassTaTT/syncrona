@@ -28,11 +28,11 @@
     "@modelcontextprotocol/sdk": "^1.12.3",
     "@syncrona/credential-store": "^0.4.2-alpha.8",
     "@syncrona/sn-transport": "^0.4.2-alpha.8",
-    "zod": "^3.23.8"
+    "zod": "^4.4.3"
   },
   "devDependencies": {
     "@types/node": "^20.8.4",
-    "typescript": "^5.2.2"
+    "typescript": "^6.0.3"
   },
   "files": [
     "dist"
